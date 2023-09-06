@@ -16,4 +16,6 @@ We have created a retrieval based chatbot using NLTK, Keras, Python, etc.
 
 The dataset we will be using is ‘intents.json’. This is a JSON file that contains the patterns we need to find and the responses we want to return to the user.
 
-I have created a Mental Health Assistance Chatbot with a Graphic User Interface to Chat with the Medical Bot.
+I have created a Mental Health Assistance Chatbot with a Graphic User Interface to Chat with the Medical Bot. 
+
+As of now My bot can answer queries related to Sleep, Headache issues, Grief/Loss Stress, Social Anxiety and Some kind of Addiction Remedy.
